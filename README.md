@@ -6,6 +6,7 @@ This repository contains detailed architectural documentation, design discussion
 
 - [Architecture](./architecture/) - System architecture and design documentation
   - [Message Processing Flow](./architecture/message-processing-flow.md) - Complete explanation of how messages are handled
+  - [Tool Selection Process](./architecture/tool-selection-process.md) - How Claude decides which tools to use for a task
 
 ## Purpose
 
